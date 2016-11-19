@@ -1,3 +1,6 @@
 [submodule "optcarrot"]
 	path = optcarrot
 	url = https://github.com/mame/optcarrot.git
+[submodule "optcarrot_benchmark/optcarrot"]
+	path = optcarrot_benchmark/optcarrot
+	url = https://github.com/mame/optcarrot.git
